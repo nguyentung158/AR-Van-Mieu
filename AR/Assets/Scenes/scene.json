@@ -1,0 +1,906 @@
+{
+    "success": true,
+    "data": [
+        {
+            "position": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+            },
+            "scale": {
+                "x": 1,
+                "y": 1,
+                "z": 1
+            },
+            "rotation": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+            },
+            "_id": "661d562827abfa64dcbc31db",
+            "modelId": "1713017443908-cong.glb",
+            "textContent": "",
+            "imageUrl": "http://localhost/uploads/images/image-1711860361476.jpg",
+            "audioUrl": "http://localhost/uploads/audio/audio-1711860327509.mp4",
+            "viewUrl": "http://localhost/view/model/1713017443908-cong.glb",
+            "downloadUrl": "http://localhost/api/download/1713017443908-cong.glb",
+            "deleteUrl": "http://localhost/api/model/1713017443908-cong.glb",
+            "__v": 0
+        },
+        {
+            "position": {
+                "x": 5.6,
+                "y": 0,
+                "z": 0
+            },
+            "scale": {
+                "x": 1,
+                "y": 0.5,
+                "z": 1
+            },
+            "rotation": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+            },
+            "_id": "661d5695e38be2b5a3ff78f9",
+            "modelId": "1713017456325-hang_rao.glb",
+            "textContent": "",
+            "imageUrl": "http://localhost/uploads/images/image-1711860361476.jpg",
+            "audioUrl": "http://localhost/uploads/audio/audio-1711860327509.mp4",
+            "viewUrl": "http://localhost/view/model/1713017456325-hang_rao.glb",
+            "downloadUrl": "http://localhost/api/download/1713017456325-hang_rao.glb",
+            "deleteUrl": "http://localhost/api/model/1713017456325-hang_rao.glb",
+            "__v": 0
+        },
+        {
+            "position": {
+                "x": -5.6,
+                "y": 0,
+                "z": 0
+            },
+            "scale": {
+                "x": 1,
+                "y": 0.5,
+                "z": 1
+            },
+            "rotation": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+            },
+            "_id": "661d6029fb1dc6e0a2bd734f",
+            "modelId": "1713017456325-hang_rao.glb-5986",
+            "textContent": "",
+            "imageUrl": "http://localhost/uploads/images/image-1711860361476.jpg",
+            "audioUrl": "http://localhost/uploads/audio/audio-1711860327509.mp4",
+            "__v": 0
+        },
+        {
+            "position": {
+                "x": -13,
+                "y": 0,
+                "z": 0
+            },
+            "scale": {
+                "x": 1,
+                "y": 0.5,
+                "z": 1
+            },
+            "rotation": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+            },
+            "_id": "661d60aa8ef00614b6448711",
+            "modelId": "1713017456325-hang_rao.glb-848",
+            "textContent": "",
+            "imageUrl": "http://localhost/uploads/images/image-1711860361476.jpg",
+            "audioUrl": "http://localhost/uploads/audio/audio-1711860327509.mp4",
+            "__v": 0
+        },
+        {
+            "position": {
+                "x": 16.7,
+                "y": 0,
+                "z": -7.5
+            },
+            "scale": {
+                "x": 2,
+                "y": 0.5,
+                "z": 1
+            },
+            "rotation": {
+                "x": 0,
+                "y": 90,
+                "z": 0
+            },
+            "_id": "661d6103210b062cda64de12",
+            "modelId": "1713017456325-hang_rao.glb-7604",
+            "textContent": "",
+            "imageUrl": "http://localhost/uploads/images/image-1711860361476.jpg",
+            "audioUrl": "http://localhost/uploads/audio/audio-1711860327509.mp4",
+            "__v": 0
+        },
+        {
+            "position": {
+                "x": 13,
+                "y": 0,
+                "z": 0
+            },
+            "scale": {
+                "x": 1,
+                "y": 0.5,
+                "z": 1
+            },
+            "rotation": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+            },
+            "_id": "661d6186dd67cf6b462f2044",
+            "modelId": "1713017456325-hang_rao.glb-939",
+            "textContent": "",
+            "imageUrl": "http://localhost/uploads/images/image-1711860361476.jpg",
+            "audioUrl": "http://localhost/uploads/audio/audio-1711860327509.mp4",
+            "__v": 0
+        },
+        {
+            "position": {
+                "x": -16.7,
+                "y": 0,
+                "z": -7.5
+            },
+            "scale": {
+                "x": 2,
+                "y": 0.5,
+                "z": 1
+            },
+            "rotation": {
+                "x": 0,
+                "y": 90,
+                "z": 0
+            },
+            "_id": "661d61f28e153f67f00bbb39",
+            "modelId": "1713017456325-hang_rao.glb-4316",
+            "textContent": "",
+            "imageUrl": "http://localhost/uploads/images/image-1711860361476.jpg",
+            "audioUrl": "http://localhost/uploads/audio/audio-1711860327509.mp4",
+            "__v": 0
+        },
+        {
+            "position": {
+                "x": 16.7,
+                "y": 0,
+                "z": -16.5
+            },
+            "scale": {
+                "x": 1,
+                "y": 0.5,
+                "z": 1
+            },
+            "rotation": {
+                "x": 0,
+                "y": 90,
+                "z": 0
+            },
+            "_id": "661d62f3e6f008cd59a4dad5",
+            "modelId": "1713017456325-hang_rao.glb-7413",
+            "textContent": "",
+            "imageUrl": "http://localhost/uploads/images/image-1713239473615.png",
+            "audioUrl": "http://localhost/uploads/audio/audio-1713239484692.MP4",
+            "__v": 0
+        },
+        {
+            "position": {
+                "x": -16.7,
+                "y": 0,
+                "z": -16.5
+            },
+            "scale": {
+                "x": 1,
+                "y": 0.5,
+                "z": 1
+            },
+            "rotation": {
+                "x": 0,
+                "y": 90,
+                "z": 0
+            },
+            "_id": "661deedb6fee25c1b27f59cb",
+            "modelId": "1713017456325-hang_rao.glb-1410",
+            "textContent": "",
+            "imageUrl": "http://localhost/uploads/images/image-1713239473615.png",
+            "audioUrl": "http://localhost/uploads/audio/audio-1713239484692.MP4",
+            "__v": 0
+        },
+        {
+            "position": {
+                "x": 9,
+                "y": 0,
+                "z": -20
+            },
+            "scale": {
+                "x": 2,
+                "y": 0.5,
+                "z": 1
+            },
+            "rotation": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+            },
+            "_id": "661defb1e2bbaf62539a198e",
+            "modelId": "1713017456325-hang_rao.glb-4309",
+            "textContent": "",
+            "imageUrl": "http://localhost/uploads/images/image-1713239473615.png",
+            "audioUrl": "http://localhost/uploads/audio/audio-1713239484692.MP4",
+            "__v": 0
+        },
+        {
+            "position": {
+                "x": -9,
+                "y": 0,
+                "z": -20
+            },
+            "scale": {
+                "x": 2,
+                "y": 0.5,
+                "z": 1
+            },
+            "rotation": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+            },
+            "_id": "661df1773785b63734e310a6",
+            "modelId": "1713017456325-hang_rao.glb-9941",
+            "textContent": "",
+            "imageUrl": "http://localhost/uploads/images/image-1713239473615.png",
+            "audioUrl": "http://localhost/uploads/audio/audio-1713239484692.MP4",
+            "__v": 0
+        },
+        {
+            "position": {
+                "x": 0,
+                "y": 0,
+                "z": -20
+            },
+            "scale": {
+                "x": 1,
+                "y": 0.5,
+                "z": 1
+            },
+            "rotation": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+            },
+            "_id": "661df20377c460663959b226",
+            "modelId": "1713017456325-hang_rao.glb-4446",
+            "textContent": "",
+            "imageUrl": "http://localhost/uploads/images/image-1713239473615.png",
+            "audioUrl": "http://localhost/uploads/audio/audio-1713239484692.MP4",
+            "__v": 0
+        },
+        {
+            "position": {
+                "x": -14,
+                "y": 0,
+                "z": -8
+            },
+            "scale": {
+                "x": 1,
+                "y": 1,
+                "z": 1
+            },
+            "rotation": {
+                "x": 0,
+                "y": 90,
+                "z": 0
+            },
+            "_id": "661df27a95d983b714217090",
+            "modelId": "1713017492873-quan_coi_thi.glb",
+            "textContent": "",
+            "imageUrl": "http://localhost/uploads/images/image-1713239473615.png",
+            "audioUrl": "http://localhost/uploads/audio/audio-1713239484692.MP4",
+            "viewUrl": "http://localhost/view/model/1713017492873-quan_coi_thi.glb",
+            "downloadUrl": "http://localhost/api/download/1713017492873-quan_coi_thi.glb",
+            "deleteUrl": "http://localhost/api/model/1713017492873-quan_coi_thi.glb",
+            "__v": 0
+        },
+        {
+            "position": {
+                "x": 10,
+                "y": 0,
+                "z": -2
+            },
+            "scale": {
+                "x": 0.8,
+                "y": 0.8,
+                "z": 0.9
+            },
+            "rotation": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+            },
+            "_id": "662123a980de0044ea86f9bb",
+            "modelId": "1713447748072-trong.glb",
+            "textContent": "",
+            "imageUrl": "http://localhost/uploads/images/image-1713239473615.png",
+            "audioUrl": "http://localhost/uploads/audio/audio-1713239484692.MP4",
+            "viewUrl": "http://localhost/view/model/1713447748072-trong.glb",
+            "downloadUrl": "http://localhost/api/download/1713447748072-trong.glb",
+            "deleteUrl": "http://localhost/api/model/1713447748072-trong.glb",
+            "__v": 0
+        },
+        {
+            "position": {
+                "x": 18,
+                "y": 0,
+                "z": -4
+            },
+            "scale": {
+                "x": 2,
+                "y": 2,
+                "z": 2
+            },
+            "rotation": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+            },
+            "_id": "662127fad42b27d5c71967bb",
+            "modelId": "1713017471887-tree_1.glb",
+            "textContent": "",
+            "imageUrl": "http://localhost/uploads/images/image-1713239473615.png",
+            "audioUrl": "http://localhost/uploads/audio/audio-1713239484692.MP4",
+            "viewUrl": "http://localhost/view/model/1713017471887-tree_1.glb",
+            "downloadUrl": "http://localhost/api/download/1713017471887-tree_1.glb",
+            "deleteUrl": "http://localhost/api/model/1713017471887-tree_1.glb",
+            "__v": 0
+        },
+        {
+            "position": {
+                "x": 2,
+                "y": 0,
+                "z": 2
+            },
+            "scale": {
+                "x": 1,
+                "y": 0.7,
+                "z": 1
+            },
+            "rotation": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+            },
+            "_id": "662147dc87039333f9ad2d71",
+            "modelId": "1713017431542-linh.glb",
+            "textContent": "",
+            "imageUrl": "http://localhost/uploads/images/image-1713239473615.png",
+            "audioUrl": "http://localhost/uploads/audio/audio-1713239484692.MP4",
+            "viewUrl": "http://localhost/view/model/1713017431542-linh.glb",
+            "downloadUrl": "http://localhost/api/download/1713017431542-linh.glb",
+            "deleteUrl": "http://localhost/api/model/1713017431542-linh.glb",
+            "__v": 0
+        },
+        {
+            "position": {
+                "x": -2,
+                "y": 0,
+                "z": 2
+            },
+            "scale": {
+                "x": 1,
+                "y": 0.7,
+                "z": 1
+            },
+            "rotation": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+            },
+            "_id": "662148bca4ce328774a4acef",
+            "modelId": "1713017431542-linh.glb-2837",
+            "textContent": "",
+            "imageUrl": "http://localhost/uploads/images/image-1713239473615.png",
+            "audioUrl": "http://localhost/uploads/audio/audio-1713239484692.MP4",
+            "__v": 0
+        },
+        {
+            "position": {
+                "x": 17,
+                "y": 0,
+                "z": 0
+            },
+            "scale": {
+                "x": 1,
+                "y": 1,
+                "z": 1
+            },
+            "rotation": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+            },
+            "_id": "662149394a02a338ce8404a1",
+            "modelId": "1713017449683-co.glb",
+            "textContent": "",
+            "imageUrl": "http://localhost/uploads/images/image-1713239473615.png",
+            "audioUrl": "http://localhost/uploads/audio/audio-1713239484692.MP4",
+            "viewUrl": "http://localhost/view/model/1713017449683-co.glb",
+            "downloadUrl": "http://localhost/api/download/1713017449683-co.glb",
+            "deleteUrl": "http://localhost/api/model/1713017449683-co.glb",
+            "__v": 0
+        },
+        {
+            "position": {
+                "x": -17,
+                "y": 0,
+                "z": 0
+            },
+            "scale": {
+                "x": 1,
+                "y": 1,
+                "z": 1
+            },
+            "rotation": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+            },
+            "_id": "662149967f9cc86ebc2ddf75",
+            "modelId": "1713017449683-co.glb-8759",
+            "textContent": "",
+            "imageUrl": "http://localhost/uploads/images/image-1713239473615.png",
+            "audioUrl": "http://localhost/uploads/audio/audio-1713239484692.MP4",
+            "__v": 0
+        },
+        {
+            "position": {
+                "x": 17,
+                "y": 0,
+                "z": -20
+            },
+            "scale": {
+                "x": 1,
+                "y": 1,
+                "z": 1
+            },
+            "rotation": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+            },
+            "_id": "662149b37f9cc86ebc2ddf79",
+            "modelId": "1713017449683-co.glb-5259",
+            "textContent": "",
+            "imageUrl": "http://localhost/uploads/images/image-1713239473615.png",
+            "audioUrl": "http://localhost/uploads/audio/audio-1713239484692.MP4",
+            "__v": 0
+        },
+        {
+            "position": {
+                "x": -17,
+                "y": 0,
+                "z": -20
+            },
+            "scale": {
+                "x": 1,
+                "y": 1,
+                "z": 1
+            },
+            "rotation": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+            },
+            "_id": "662149c47f9cc86ebc2ddf7e",
+            "modelId": "1713017449683-co.glb-6622",
+            "textContent": "",
+            "imageUrl": "http://localhost/uploads/images/image-1713239473615.png",
+            "audioUrl": "http://localhost/uploads/audio/audio-1713239484692.MP4",
+            "__v": 0
+        },
+        {
+            "position": {
+                "x": -15,
+                "y": 0,
+                "z": -5
+            },
+            "scale": {
+                "x": 1,
+                "y": 0.7,
+                "z": 1
+            },
+            "rotation": {
+                "x": 0,
+                "y": 90,
+                "z": 0
+            },
+            "_id": "66214b94bf5ffc14ce48216c",
+            "modelId": "1713017431542-linh.glb-4398",
+            "textContent": "Lính canh",
+            "imageUrl": "http://localhost/uploads/images/image-1713239473615.png",
+            "audioUrl": "http://localhost/uploads/audio/audio-1713239484692.MP4",
+            "__v": 0
+        },
+        {
+            "position": {
+                "x": -2,
+                "y": 0,
+                "z": -18
+            },
+            "scale": {
+                "x": 1,
+                "y": 1,
+                "z": 1
+            },
+            "rotation": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+            },
+            "_id": "66214de8af8039f4d3b1438f",
+            "modelId": "1713017492873-quan_coi_thi.glb-6775",
+            "textContent": "Quan coi thi",
+            "imageUrl": "http://localhost/uploads/images/image-1713239473615.png",
+            "audioUrl": "http://localhost/uploads/audio/audio-1713239484692.MP4",
+            "__v": 0
+        },
+        {
+            "position": {
+                "x": 14,
+                "y": 0,
+                "z": -13
+            },
+            "scale": {
+                "x": 1,
+                "y": 1,
+                "z": 1
+            },
+            "rotation": {
+                "x": 0,
+                "y": -90,
+                "z": 0
+            },
+            "_id": "66214e403e3b084e2c935f7b",
+            "modelId": "1713017492873-quan_coi_thi.glb-9000",
+            "textContent": "",
+            "imageUrl": "http://localhost/uploads/images/image-1713239473615.png",
+            "audioUrl": "http://localhost/uploads/audio/audio-1713239484692.MP4",
+            "__v": 0
+        },
+        {
+            "position": {
+                "x": -18,
+                "y": 0,
+                "z": -4
+            },
+            "scale": {
+                "x": 2,
+                "y": 2,
+                "z": 2
+            },
+            "rotation": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+            },
+            "_id": "6622b6760d15dbc8c4cd0890",
+            "modelId": "1713017471887-tree_1.glb-9685",
+            "textContent": "",
+            "imageUrl": "http://localhost/uploads/images/image-1713239473615.png",
+            "audioUrl": "http://localhost/uploads/audio/audio-1713239484692.MP4",
+            "__v": 0
+        },
+        {
+            "position": {
+                "x": 15,
+                "y": 0,
+                "z": -5
+            },
+            "scale": {
+                "x": 1,
+                "y": 0.8,
+                "z": 1
+            },
+            "rotation": {
+                "x": 0,
+                "y": -90,
+                "z": 0
+            },
+            "_id": "6622b6fba849df79cdf7975d",
+            "modelId": "1713017431542-linh.glb-8994",
+            "textContent": "",
+            "imageUrl": "http://localhost/uploads/images/image-1713239473615.png",
+            "audioUrl": "http://localhost/uploads/audio/audio-1713239484692.MP4",
+            "__v": 0
+        },
+        {
+            "position": {
+                "x": 18,
+                "y": 0,
+                "z": -24
+            },
+            "scale": {
+                "x": 2,
+                "y": 2,
+                "z": 2
+            },
+            "rotation": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+            },
+            "_id": "6629fb4e7bca6a3303ba8e84",
+            "modelId": "1713017471887-tree_1.glb-179",
+            "textContent": "",
+            "imageUrl": "http://localhost/uploads/images/image-1713239473615.png",
+            "audioUrl": "http://localhost/uploads/audio/audio-1713239484692.MP4",
+            "__v": 0
+        },
+        {
+            "position": {
+                "x": 3,
+                "y": 0,
+                "z": -7
+            },
+            "scale": {
+                "x": 1,
+                "y": 1,
+                "z": 1
+            },
+            "rotation": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+            },
+            "_id": "6629fbc37bca6a3303ba8e88",
+            "modelId": "1713967860865-thí_sinh.glb",
+            "textContent": "",
+            "imageUrl": "http://localhost/uploads/images/image-1713239473615.png",
+            "audioUrl": "http://localhost/uploads/audio/audio-1713239484692.MP4",
+            "viewUrl": "http://localhost/view/model/1713967860865-thí_sinh.glb",
+            "downloadUrl": "http://localhost/api/download/1713967860865-thí_sinh.glb",
+            "deleteUrl": "http://localhost/api/model/1713967860865-thí_sinh.glb",
+            "__v": 0
+        },
+        {
+            "position": {
+                "x": -3,
+                "y": 0,
+                "z": -7
+            },
+            "scale": {
+                "x": 1,
+                "y": 1,
+                "z": 1
+            },
+            "rotation": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+            },
+            "_id": "6629fc154161cd2d19fac4f0",
+            "modelId": "1713967860865-thí_sinh.glb-1400",
+            "textContent": "Thí sinh",
+            "imageUrl": "http://localhost/uploads/images/image-1713239473615.png",
+            "audioUrl": "http://localhost/uploads/audio/audio-1713239484692.MP4",
+            "__v": 0
+        },
+        {
+            "position": {
+                "x": -9,
+                "y": 0,
+                "z": -7
+            },
+            "scale": {
+                "x": 1,
+                "y": 1,
+                "z": 1
+            },
+            "rotation": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+            },
+            "_id": "6629fc39fcb278a9714947fb",
+            "modelId": "1713967860865-thí_sinh.glb-8697",
+            "textContent": "",
+            "imageUrl": "http://localhost/uploads/images/image-1713239473615.png",
+            "audioUrl": "http://localhost/uploads/audio/audio-1713239484692.MP4",
+            "__v": 0
+        },
+        {
+            "position": {
+                "x": 9,
+                "y": 0,
+                "z": -7
+            },
+            "scale": {
+                "x": 1,
+                "y": 1,
+                "z": 1
+            },
+            "rotation": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+            },
+            "_id": "6629ff555da47a2824242551",
+            "modelId": "1713967860865-thí_sinh.glb-5228",
+            "textContent": "",
+            "imageUrl": "http://localhost/uploads/images/image-1713239473615.png",
+            "audioUrl": "http://localhost/uploads/audio/audio-1713239484692.MP4",
+            "__v": 0
+        },
+        {
+            "position": {
+                "x": 3,
+                "y": 0,
+                "z": -13
+            },
+            "scale": {
+                "x": 1,
+                "y": 1,
+                "z": 1
+            },
+            "rotation": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+            },
+            "_id": "662a0125310fb426cf75ca49",
+            "modelId": "1713967860865-thí_sinh.glb-8431",
+            "textContent": "",
+            "imageUrl": "http://localhost/uploads/images/image-1713239473615.png",
+            "audioUrl": "http://localhost/uploads/audio/audio-1713239484692.MP4",
+            "__v": 0
+        },
+        {
+            "position": {
+                "x": 9,
+                "y": 0,
+                "z": -13
+            },
+            "scale": {
+                "x": 1,
+                "y": 1,
+                "z": 1
+            },
+            "rotation": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+            },
+            "_id": "662a0160841592964bbd3c3f",
+            "modelId": "1713967860865-thí_sinh.glb-8700",
+            "textContent": "",
+            "imageUrl": "http://localhost/uploads/images/image-1713239473615.png",
+            "audioUrl": "http://localhost/uploads/audio/audio-1713239484692.MP4",
+            "__v": 0
+        },
+        {
+            "position": {
+                "x": -3,
+                "y": 0,
+                "z": -13
+            },
+            "scale": {
+                "x": 1,
+                "y": 1,
+                "z": 1
+            },
+            "rotation": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+            },
+            "_id": "662a0176da88385769c8d11a",
+            "modelId": "1713967860865-thí_sinh.glb-2797",
+            "textContent": "",
+            "imageUrl": "http://localhost/uploads/images/image-1713239473615.png",
+            "audioUrl": "http://localhost/uploads/audio/audio-1713239484692.MP4",
+            "__v": 0
+        },
+        {
+            "position": {
+                "x": -9,
+                "y": 0,
+                "z": -13
+            },
+            "scale": {
+                "x": 1,
+                "y": 1,
+                "z": 1
+            },
+            "rotation": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+            },
+            "_id": "662a01891b9a86e00417c4c4",
+            "modelId": "1713967860865-thí_sinh.glb-1712",
+            "textContent": "",
+            "imageUrl": "http://localhost/uploads/images/image-1713239473615.png",
+            "audioUrl": "http://localhost/uploads/audio/audio-1713239484692.MP4",
+            "__v": 0
+        },
+        {
+            "position": {
+                "x": 0,
+                "y": 0,
+                "z": -19
+            },
+            "scale": {
+                "x": 3,
+                "y": 3,
+                "z": 3
+            },
+            "rotation": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+            },
+            "_id": "66363dae223103e70a79dc14",
+            "modelId": "1713017486444-oche.glb",
+            "textContent": "",
+            "imageUrl": "http://localhost/uploads/images/image-1713239473615.png",
+            "audioUrl": "http://localhost/uploads/audio/audio-1713239484692.MP4",
+            "viewUrl": "http://localhost/view/model/1713017486444-oche.glb",
+            "downloadUrl": "http://localhost/api/download/1713017486444-oche.glb",
+            "deleteUrl": "http://localhost/api/model/1713017486444-oche.glb",
+            "__v": 0
+        },
+        {
+            "position": {
+                "x": -16,
+                "y": 0,
+                "z": -11
+            },
+            "scale": {
+                "x": 3,
+                "y": 3,
+                "z": 3
+            },
+            "rotation": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+            },
+            "_id": "66363ddb223103e70a79dc17",
+            "modelId": "1713017486444-oche.glb-8135",
+            "textContent": "",
+            "imageUrl": "http://localhost/uploads/images/image-1713239473615.png",
+            "audioUrl": "http://localhost/uploads/audio/audio-1713239484692.MP4",
+            "__v": 0
+        },
+        {
+            "position": {
+                "x": 15,
+                "y": 0,
+                "z": -10
+            },
+            "scale": {
+                "x": 3,
+                "y": 3,
+                "z": 3
+            },
+            "rotation": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+            },
+            "_id": "66363e1dde6bc9651adf2c2b",
+            "modelId": "1713017486444-oche.glb-7401",
+            "textContent": "",
+            "imageUrl": "http://localhost/uploads/images/image-1713239473615.png",
+            "audioUrl": "http://localhost/uploads/audio/audio-1713239484692.MP4",
+            "__v": 0
+        }
+    ]
+}

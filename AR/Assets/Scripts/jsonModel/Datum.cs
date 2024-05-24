@@ -10,6 +10,7 @@ namespace ModelData{
         public string textContent { get; set; }
         public string imageUrl { get; set; }
         public string audioUrl { get; set; }
+        public string videoUrl { get; set; }
         public string viewUrl { get; set; }
         public string downloadUrl { get; set; }
         public string deleteUrl { get; set; }

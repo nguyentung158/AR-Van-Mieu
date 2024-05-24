@@ -1,5 +1,3 @@
-using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
 
 public class Model
@@ -11,12 +9,13 @@ public class Model
     private string url;
     private string videoUrl;
     private string imageUrl;
+    private string audioUrl;
     private string text;
-    public GameObject[] btnModels = new GameObject[3];
+    public GameObject[] btnModels = new GameObject[2];
     //private GameObject modelObject =new GameObject();
 
     // Constructor
-    public Model(string name, Vector3 position, Quaternion rotation, Vector3 scale, string url, string videoUrl, string imageUrl, string text)
+    public Model(string name, Vector3 position, Quaternion rotation, Vector3 scale, string url, string videoUrl, string imageUrl, string text, string audioUrl)
     {
         this.name = name;
         this.position = position;
@@ -25,6 +24,7 @@ public class Model
         this.url = url;
         this.videoUrl = videoUrl;
         this.imageUrl = imageUrl;
+        this.audioUrl = audioUrl;
         this.text = text;
     }
 
@@ -71,6 +71,12 @@ public class Model
         set { imageUrl = value; }
     }
 
+    public string AudioUrl
+    {
+        get { return audioUrl; }
+        set { audioUrl = value; }
+    }
+
     public string Text
     {
         get { return text; }
@@ -93,5 +99,24 @@ public class Model
     //    modelObject.transform.rotation = rotation;
     //    modelObject.transform.localScale = scale;
     //}
+
+    // Method to create a new Model object from a Datum object
+    public static Model CreateModelFromDatum(ModelData.Datum datum)
+    {
+        // Extract data from the Datum object
+        string name = datum.modelId; // You can use other properties of Datum to initialize other fields of Model
+        Vector3 position = ConvertXYZ.convertPos(new Vector3(datum.position.x, datum.position.y, datum.position.z));
+        Vector3 rotationVt3 = ConvertXYZ.convertRot(new Vector3(datum.rotation.x, datum.rotation.y, datum.rotation.z));
+        Quaternion rotation = Quaternion.Euler(rotationVt3);
+        Vector3 scale = new Vector3(datum.scale.x, datum.scale.y, datum.scale.z);
+        string url = datum.downloadUrl;
+        string videoUrl = datum.videoUrl;
+        string imageUrl = datum.imageUrl;
+        string audioUrl = datum.audioUrl;
+        string text = datum.textContent;
+
+        // Create and return a new Model object
+        return new Model(name, position, rotation, scale, url, videoUrl, imageUrl, text, audioUrl);
+    }
 }
 

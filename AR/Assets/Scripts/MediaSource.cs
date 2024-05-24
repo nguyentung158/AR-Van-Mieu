@@ -1,12 +1,26 @@
 ﻿using UnityEngine;
-using System.Collections;
 
-public class MediaSource : MonoBehaviour
+public class MediaSource
 {
-    public string photoUrl = "";
-    public string videoUrl = "";
-    public string infoText = "";
-	public bool isMediaActived = false;
-    public GameObject screen;
+    string photoUrl = "";
+    string videoUrl = "";
+    string audioUrl = "";
+    string name = "";
+
+
+    public MediaSource(string photoUrl, string videoUrl, string audioUrl, string name)
+    {
+        this.PhotoUrl = photoUrl;
+        this.VideoUrl = videoUrl;
+        this.AudioUrl = audioUrl;
+        this.Name = name;
+    }
+
+    public string PhotoUrl { get => photoUrl; set => photoUrl = value; }
+    public string VideoUrl { get => videoUrl; set => videoUrl = value; }
+    public string AudioUrl { get => audioUrl; set => audioUrl = value; }
+    public string Name { get => name; set => name = value; }
+
 }
+
 
